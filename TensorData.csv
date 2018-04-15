@@ -72,7 +72,7 @@ Covert Index,Number of CCs,Corelation,Email 1, Email 2,Conspirator
 2.817695217,48,-0.150514998,tana.jones@enron.com,tana.jones@enron.com,1
 2.264817823,0,0,sally.beck@enron.com,sally.beck@enron.com,1
 2.297599078,194,0.120728291,richard.shapiro@enron.com,richard.shapiro@enron.com,1
-#N/A,0,0.120728291,skean@enron.com,skean@enron.com,1
+1.552299828,0,0.120728291,skean@enron.com,skean@enron.com,1
 2.053078443,0,0.120728291,tim.belden@enron.com,tim.belden@enron.com,1
 2.890905749,80,0.129691875,steven.kean@enron.com,steven.kean@enron.com,1
 2.297599078,194,0.129691875,richard.shapiro@enron.com,richard.shapiro@enron.com,1
